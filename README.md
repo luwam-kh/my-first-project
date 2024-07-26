@@ -1,2 +1,2 @@
-# it is about uploading files from one drive
+# About my first project on GitHub on uploadig files from one drive
 This is my first project
