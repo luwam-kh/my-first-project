@@ -1,2 +1,2 @@
-# contribute to my project, by opening pull request
+# contribute to my project, by opening a pull request
 This is my first project
